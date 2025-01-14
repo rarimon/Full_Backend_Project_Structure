@@ -1,8 +1,8 @@
-Full Backend Project Structure
+#Full Backend Project Structure
 
 This repository contains a well-organized backend project built with Node.js and Express. It follows a modular structure to ensure maintainability and scalability.
 
-Project Structure:
+###Project Structure:
 
 app/<br>
 config/<br>
@@ -22,21 +22,24 @@ LICENSE: License for the project<br>
 package.json: Project dependencies and metadata<br>
 package-lock.json: Lockfile for dependency versions<br>
 
-Features:<br>
-Modular structure for easy development and debugging.
-JWT support with token utility functions for authentication.
-Centralized configuration for flexibility.
-Extensible folder structure for adding models, middleware, and controllers.
-Getting Started:
+###Features:<br>
 
-Clone the repository:
-git clone https://github.com/yourusername/full-backend-project-structure.git
+Modular structure for easy development and debugging.<br>
+JWT support with token utility functions for authentication.<br>
+Centralized configuration for flexibility.<br>
+Extensible folder structure for adding models, middleware, and controllers.<br>
 
-Install dependencies:
-npm install
 
-Start the server:
-node app.js
+###Getting Started:<br>
 
-Contribution:
-Contributions are welcome! Please submit a pull request with detailed information about your changes.
+###Clone the repository:<br>
+git clone https://github.com/yourusername/full-backend-project-structure.git<br>
+
+###Install dependencies:<br>
+npm install<br>
+
+###Start the server:<br>
+node app.js<br>
+
+###Contribution:<br>
+Contributions are welcome! Please submit a pull request with detailed information about your changes.<br>
